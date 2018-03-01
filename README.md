@@ -1,6 +1,8 @@
 # "Deep Learning - From Basics to Practice" by Andrew Glassner
 
-## Book available from Amazon at http://TK
+## Books available from Amazon
+## Buy [Volume 1](http://amzn.to/2F4nz7k)
+## Buy [Volume 2](http://amzn.to/2EQtPR2)
 
 ## Jupyter notebooks and Figures
 
