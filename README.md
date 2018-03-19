@@ -1,8 +1,15 @@
 # "Deep Learning - From Basics to Practice" by Andrew Glassner
 
 ## Books available from Amazon
+
 ## Buy [Volume 1](http://amzn.to/2F4nz7k)
 ## Buy [Volume 2](http://amzn.to/2EQtPR2)
+
+## Free Kindle Apps
+
+The books are available from Amazon in Kindle form. Amazon makes a
+free Kindle reader for practically anything with a screen. You can
+download them at https://www.amazon.com/kindle-dbs/fd/kcp
 
 ## Jupyter notebooks and Figures
 
@@ -36,7 +43,7 @@
   without an explicit citation in the book are by the author, and are released
   under the MIT license.
   
-  The code for Volumes 1 and 2 are each in their own GitHub repo:
+  The code for Volumes 1 and 2 are each in their own GitHub repo: 
   
 ### Notebooks for Volume 1:
   * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
@@ -47,15 +54,17 @@
 # ABOUT THE FIGURES 
 
   The book is illustrated with roughly 1000 original figures. Most were drawn
-  by the author in Adobe Illustrator. A few were drawn in Photoshop.
+  by the author in Adobe Illustrator. A few were drawn in Photoshop. All 
+  are available here in PNG format.
   
   Most of these images are saved at high resolution (300 dpi or better), so
-  they are appropriate for presentaitons and talks even when projected
+  they are appropriate for presentations and talks even when projected
   to large size.
   
   All of these figures are released under the MIT license, like the code. This
   means you're free to use them any way you like, as long as you keep the 
-  copyright associated with them somehow. 
+  copyright associated with them somehow. Use them for your classes,
+  reports, papers, presentations, whatever you like!
   
   You're not required to attribute me or the book if you use these images, 
   but I'd appreciate it if you would. 
@@ -67,10 +76,23 @@
   labeled as released under the Creative Commons CC0 license, and explicitly
   state, "Free for commercial use. No attribution required."
   
+  To help you better sort through and choose figures, thumbnails for all 
+  the figures are available.
+  
+### Thumbnails for all figures:
+  * https://github.com/blueberrymusic/DeepLearningBookFigures-Thumbnails
+  
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
   
-### Notebooks for Volume 1:
+### Figures for Volume 1:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
   
-### Notebooks for Volume 2:
+### Figures for Volume 2:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
+
+# OTHER RESOURCES
+
+  Any other resources will be available in their own repository.
+
+### Other Resources:
+  * https://github.com/blueberrymusic/DeepLearningBook-Resources
